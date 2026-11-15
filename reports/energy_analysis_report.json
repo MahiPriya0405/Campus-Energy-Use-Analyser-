@@ -1,0 +1,892 @@
+{
+    "total_records": 90,
+    "total_consumption_kwh": 21103.64,
+    "building_summary": {
+        "Academic Block A": {
+            "total_kwh": 3663.89,
+            "average_kwh": 244.26,
+            "maximum_kwh": 495.08,
+            "minimum_kwh": 146.45
+        },
+        "Central Library": {
+            "total_kwh": 2846.48,
+            "average_kwh": 189.77,
+            "maximum_kwh": 303.46,
+            "minimum_kwh": 142.14
+        },
+        "Computer Lab Block": {
+            "total_kwh": 4628.15,
+            "average_kwh": 308.54,
+            "maximum_kwh": 713.94,
+            "minimum_kwh": 160.5
+        },
+        "Administration Block": {
+            "total_kwh": 2209.06,
+            "average_kwh": 147.27,
+            "maximum_kwh": 328.25,
+            "minimum_kwh": 69.02
+        },
+        "Boys Hostel": {
+            "total_kwh": 6352.91,
+            "average_kwh": 423.53,
+            "maximum_kwh": 769.37,
+            "minimum_kwh": 361.44
+        },
+        "Auditorium": {
+            "total_kwh": 1403.15,
+            "average_kwh": 93.54,
+            "maximum_kwh": 169.92,
+            "minimum_kwh": 75.32
+        }
+    },
+    "monthly_summary": [
+        {
+            "month": "2026-08",
+            "building_name": "Academic Block A",
+            "total_kwh": 1395.97,
+            "average_kwh": 279.19,
+            "record_count": 5
+        },
+        {
+            "month": "2026-08",
+            "building_name": "Administration Block",
+            "total_kwh": 687.66,
+            "average_kwh": 137.53,
+            "record_count": 5
+        },
+        {
+            "month": "2026-08",
+            "building_name": "Auditorium",
+            "total_kwh": 421.25,
+            "average_kwh": 84.25,
+            "record_count": 5
+        },
+        {
+            "month": "2026-08",
+            "building_name": "Boys Hostel",
+            "total_kwh": 1936.82,
+            "average_kwh": 387.36,
+            "record_count": 5
+        },
+        {
+            "month": "2026-08",
+            "building_name": "Central Library",
+            "total_kwh": 911.16,
+            "average_kwh": 182.23,
+            "record_count": 5
+        },
+        {
+            "month": "2026-08",
+            "building_name": "Computer Lab Block",
+            "total_kwh": 1448.25,
+            "average_kwh": 289.65,
+            "record_count": 5
+        },
+        {
+            "month": "2026-09",
+            "building_name": "Academic Block A",
+            "total_kwh": 1050.94,
+            "average_kwh": 210.19,
+            "record_count": 5
+        },
+        {
+            "month": "2026-09",
+            "building_name": "Administration Block",
+            "total_kwh": 620.28,
+            "average_kwh": 124.06,
+            "record_count": 5
+        },
+        {
+            "month": "2026-09",
+            "building_name": "Auditorium",
+            "total_kwh": 423.95,
+            "average_kwh": 84.79,
+            "record_count": 5
+        },
+        {
+            "month": "2026-09",
+            "building_name": "Boys Hostel",
+            "total_kwh": 2003.43,
+            "average_kwh": 400.69,
+            "record_count": 5
+        },
+        {
+            "month": "2026-09",
+            "building_name": "Central Library",
+            "total_kwh": 1026.87,
+            "average_kwh": 205.37,
+            "record_count": 5
+        },
+        {
+            "month": "2026-09",
+            "building_name": "Computer Lab Block",
+            "total_kwh": 1709.93,
+            "average_kwh": 341.99,
+            "record_count": 5
+        },
+        {
+            "month": "2026-10",
+            "building_name": "Academic Block A",
+            "total_kwh": 1216.98,
+            "average_kwh": 243.4,
+            "record_count": 5
+        },
+        {
+            "month": "2026-10",
+            "building_name": "Administration Block",
+            "total_kwh": 901.12,
+            "average_kwh": 180.22,
+            "record_count": 5
+        },
+        {
+            "month": "2026-10",
+            "building_name": "Auditorium",
+            "total_kwh": 557.95,
+            "average_kwh": 111.59,
+            "record_count": 5
+        },
+        {
+            "month": "2026-10",
+            "building_name": "Boys Hostel",
+            "total_kwh": 2412.66,
+            "average_kwh": 482.53,
+            "record_count": 5
+        },
+        {
+            "month": "2026-10",
+            "building_name": "Central Library",
+            "total_kwh": 908.45,
+            "average_kwh": 181.69,
+            "record_count": 5
+        },
+        {
+            "month": "2026-10",
+            "building_name": "Computer Lab Block",
+            "total_kwh": 1469.97,
+            "average_kwh": 293.99,
+            "record_count": 5
+        }
+    ],
+    "meter_records": [
+        {
+            "record_id": "R001",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-08-01",
+            "consumption_kwh": 146.45
+        },
+        {
+            "record_id": "R002",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-08-07",
+            "consumption_kwh": 244.5
+        },
+        {
+            "record_id": "R003",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-08-13",
+            "consumption_kwh": 257.95
+        },
+        {
+            "record_id": "R004",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-08-19",
+            "consumption_kwh": 495.08
+        },
+        {
+            "record_id": "R005",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-08-25",
+            "consumption_kwh": 251.99
+        },
+        {
+            "record_id": "R006",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-09-01",
+            "consumption_kwh": 241.36
+        },
+        {
+            "record_id": "R007",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-09-07",
+            "consumption_kwh": 257.4
+        },
+        {
+            "record_id": "R008",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-09-13",
+            "consumption_kwh": 162.24
+        },
+        {
+            "record_id": "R009",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-09-19",
+            "consumption_kwh": 153.5
+        },
+        {
+            "record_id": "R010",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-09-25",
+            "consumption_kwh": 236.44
+        },
+        {
+            "record_id": "R011",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-10-01",
+            "consumption_kwh": 271.14
+        },
+        {
+            "record_id": "R012",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-10-07",
+            "consumption_kwh": 273.73
+        },
+        {
+            "record_id": "R013",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-10-13",
+            "consumption_kwh": 269.21
+        },
+        {
+            "record_id": "R014",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-10-19",
+            "consumption_kwh": 240.78
+        },
+        {
+            "record_id": "R015",
+            "building_id": "B001",
+            "building_name": "Academic Block A",
+            "meter_id": "MTR001",
+            "reading_date": "2026-10-25",
+            "consumption_kwh": 162.12
+        },
+        {
+            "record_id": "R016",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-08-01",
+            "consumption_kwh": 142.14
+        },
+        {
+            "record_id": "R017",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-08-07",
+            "consumption_kwh": 186.9
+        },
+        {
+            "record_id": "R018",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-08-13",
+            "consumption_kwh": 185.7
+        },
+        {
+            "record_id": "R019",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-08-19",
+            "consumption_kwh": 198.74
+        },
+        {
+            "record_id": "R020",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-08-25",
+            "consumption_kwh": 197.68
+        },
+        {
+            "record_id": "R021",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-09-01",
+            "consumption_kwh": 194.6
+        },
+        {
+            "record_id": "R022",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-09-07",
+            "consumption_kwh": 182.17
+        },
+        {
+            "record_id": "R023",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-09-13",
+            "consumption_kwh": 303.46
+        },
+        {
+            "record_id": "R024",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-09-19",
+            "consumption_kwh": 162.23
+        },
+        {
+            "record_id": "R025",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-09-25",
+            "consumption_kwh": 184.41
+        },
+        {
+            "record_id": "R026",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-10-01",
+            "consumption_kwh": 184.89
+        },
+        {
+            "record_id": "R027",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-10-07",
+            "consumption_kwh": 194.28
+        },
+        {
+            "record_id": "R028",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-10-13",
+            "consumption_kwh": 191.84
+        },
+        {
+            "record_id": "R029",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-10-19",
+            "consumption_kwh": 194.55
+        },
+        {
+            "record_id": "R030",
+            "building_id": "B002",
+            "building_name": "Central Library",
+            "meter_id": "MTR002",
+            "reading_date": "2026-10-25",
+            "consumption_kwh": 142.89
+        },
+        {
+            "record_id": "R031",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-08-01",
+            "consumption_kwh": 183.56
+        },
+        {
+            "record_id": "R032",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-08-07",
+            "consumption_kwh": 299.51
+        },
+        {
+            "record_id": "R033",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-08-13",
+            "consumption_kwh": 326.08
+        },
+        {
+            "record_id": "R034",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-08-19",
+            "consumption_kwh": 334.43
+        },
+        {
+            "record_id": "R035",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-08-25",
+            "consumption_kwh": 304.67
+        },
+        {
+            "record_id": "R036",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-09-01",
+            "consumption_kwh": 338.79
+        },
+        {
+            "record_id": "R037",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-09-07",
+            "consumption_kwh": 331.99
+        },
+        {
+            "record_id": "R038",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-09-13",
+            "consumption_kwh": 160.5
+        },
+        {
+            "record_id": "R039",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-09-19",
+            "consumption_kwh": 164.71
+        },
+        {
+            "record_id": "R040",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-09-25",
+            "consumption_kwh": 713.94
+        },
+        {
+            "record_id": "R041",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-10-01",
+            "consumption_kwh": 290.83
+        },
+        {
+            "record_id": "R042",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-10-07",
+            "consumption_kwh": 326.14
+        },
+        {
+            "record_id": "R043",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-10-13",
+            "consumption_kwh": 315.73
+        },
+        {
+            "record_id": "R044",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-10-19",
+            "consumption_kwh": 346.3
+        },
+        {
+            "record_id": "R045",
+            "building_id": "B003",
+            "building_name": "Computer Lab Block",
+            "meter_id": "MTR003",
+            "reading_date": "2026-10-25",
+            "consumption_kwh": 190.97
+        },
+        {
+            "record_id": "R046",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-08-01",
+            "consumption_kwh": 77.63
+        },
+        {
+            "record_id": "R047",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-08-07",
+            "consumption_kwh": 165.4
+        },
+        {
+            "record_id": "R048",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-08-13",
+            "consumption_kwh": 148.31
+        },
+        {
+            "record_id": "R049",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-08-19",
+            "consumption_kwh": 145.22
+        },
+        {
+            "record_id": "R050",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-08-25",
+            "consumption_kwh": 151.1
+        },
+        {
+            "record_id": "R051",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-09-01",
+            "consumption_kwh": 160.25
+        },
+        {
+            "record_id": "R052",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-09-07",
+            "consumption_kwh": 165.79
+        },
+        {
+            "record_id": "R053",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-09-13",
+            "consumption_kwh": 73.62
+        },
+        {
+            "record_id": "R054",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-09-19",
+            "consumption_kwh": 69.02
+        },
+        {
+            "record_id": "R055",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-09-25",
+            "consumption_kwh": 151.6
+        },
+        {
+            "record_id": "R056",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-10-01",
+            "consumption_kwh": 153.36
+        },
+        {
+            "record_id": "R057",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-10-07",
+            "consumption_kwh": 328.25
+        },
+        {
+            "record_id": "R058",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-10-13",
+            "consumption_kwh": 169.19
+        },
+        {
+            "record_id": "R059",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-10-19",
+            "consumption_kwh": 172.35
+        },
+        {
+            "record_id": "R060",
+            "building_id": "B004",
+            "building_name": "Administration Block",
+            "meter_id": "MTR004",
+            "reading_date": "2026-10-25",
+            "consumption_kwh": 77.97
+        },
+        {
+            "record_id": "R061",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-08-01",
+            "consumption_kwh": 423.37
+        },
+        {
+            "record_id": "R062",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-08-07",
+            "consumption_kwh": 370.34
+        },
+        {
+            "record_id": "R063",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-08-13",
+            "consumption_kwh": 392.99
+        },
+        {
+            "record_id": "R064",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-08-19",
+            "consumption_kwh": 387.64
+        },
+        {
+            "record_id": "R065",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-08-25",
+            "consumption_kwh": 362.48
+        },
+        {
+            "record_id": "R066",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-09-01",
+            "consumption_kwh": 388.82
+        },
+        {
+            "record_id": "R067",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-09-07",
+            "consumption_kwh": 361.44
+        },
+        {
+            "record_id": "R068",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-09-13",
+            "consumption_kwh": 440.86
+        },
+        {
+            "record_id": "R069",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-09-19",
+            "consumption_kwh": 414.33
+        },
+        {
+            "record_id": "R070",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-09-25",
+            "consumption_kwh": 397.98
+        },
+        {
+            "record_id": "R071",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-10-01",
+            "consumption_kwh": 376.67
+        },
+        {
+            "record_id": "R072",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-10-07",
+            "consumption_kwh": 397.37
+        },
+        {
+            "record_id": "R073",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-10-13",
+            "consumption_kwh": 769.37
+        },
+        {
+            "record_id": "R074",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-10-19",
+            "consumption_kwh": 424.48
+        },
+        {
+            "record_id": "R075",
+            "building_id": "B005",
+            "building_name": "Boys Hostel",
+            "meter_id": "MTR005",
+            "reading_date": "2026-10-25",
+            "consumption_kwh": 444.77
+        },
+        {
+            "record_id": "R076",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-08-01",
+            "consumption_kwh": 75.32
+        },
+        {
+            "record_id": "R077",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-08-07",
+            "consumption_kwh": 88.37
+        },
+        {
+            "record_id": "R078",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-08-13",
+            "consumption_kwh": 84.22
+        },
+        {
+            "record_id": "R079",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-08-19",
+            "consumption_kwh": 83.39
+        },
+        {
+            "record_id": "R080",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-08-25",
+            "consumption_kwh": 89.95
+        },
+        {
+            "record_id": "R081",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-09-01",
+            "consumption_kwh": 85.3
+        },
+        {
+            "record_id": "R082",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-09-07",
+            "consumption_kwh": 86.19
+        },
+        {
+            "record_id": "R083",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-09-13",
+            "consumption_kwh": 78.49
+        },
+        {
+            "record_id": "R084",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-09-19",
+            "consumption_kwh": 77.69
+        },
+        {
+            "record_id": "R085",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-09-25",
+            "consumption_kwh": 96.28
+        },
+        {
+            "record_id": "R086",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-10-01",
+            "consumption_kwh": 98.53
+        },
+        {
+            "record_id": "R087",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-10-07",
+            "consumption_kwh": 100.27
+        },
+        {
+            "record_id": "R088",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-10-13",
+            "consumption_kwh": 100.12
+        },
+        {
+            "record_id": "R089",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-10-19",
+            "consumption_kwh": 89.11
+        },
+        {
+            "record_id": "R090",
+            "building_id": "B006",
+            "building_name": "Auditorium",
+            "meter_id": "MTR006",
+            "reading_date": "2026-10-25",
+            "consumption_kwh": 169.92
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+case_id,issue_type,record_id,building_id,building_name,meter_id,reading_date,consumption_kwh,expected_detection
+Q001,duplicate_record,R001,B001,Academic Block A,MTR001,2026-08-01,244.10,Duplicate building-meter-date / record identity
+Q002,missing_consumption,Q002,B002,Central Library,MTR002,2026-08-07,,Missing consumption value
+Q003,negative_consumption,Q003,B003,Computer Lab Block,MTR003,2026-08-13,-25.00,Negative consumption is invalid
+Q004,invalid_date,Q004,B004,Administration Block,MTR004,2026-13-40,150.00,Invalid calendar date
+Q005,missing_building_id,Q005,,Boys Hostel,MTR005,2026-08-25,402.50,Missing building identifier
